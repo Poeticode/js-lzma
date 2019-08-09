@@ -1,0 +1,27 @@
+{
+  "name": "@poeticode/js-lzma",
+  "version": "1.0.0",
+  "description": "JS port of LZMA written by jcmellado",
+  "main": "src/lzma.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "\u001b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poeticode/js-lzma.git"
+  },
+  "keywords": [
+    "lzma",
+    "compression"
+  ],
+  "author": "jcmellado",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/Poeticode/js-lzma/issues"
+  },
+  "homepage": "https://github.com/Poeticode/js-lzma#readme"
+}
